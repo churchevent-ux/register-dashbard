@@ -46,7 +46,7 @@ const AdminLogin = () => {
       alert("Invalid admin credentials or user does not exist.");
     }
   };
-
+   
   return (
     <div style={styles.container}>
       <div style={styles.background}></div>
